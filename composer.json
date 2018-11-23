@@ -10,7 +10,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "King\\BaseToCode\\": "basetocode/packs/basetocode/src/"
+            "King\\BaseToCode\\": "src/"
         }
     }
 }
